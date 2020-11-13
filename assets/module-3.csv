@@ -1,0 +1,34 @@
+Aula 1.1 - História e motivação do Modelo MapReduce;https://youtu.be/Bm6zzWfemGE
+Aula 1.2 - Exemplo de funcionamento;https://youtu.be/EZoX7fSyw5A
+Aula 2.1 - História;https://youtu.be/8sPjbt_xM0g
+Aula 2.2 - Ecossistema;https://youtu.be/gwfn_pJjGZY
+Aula 2.3 - YARN;https://youtu.be/ikwDhZeMvnw
+Aula 2.4 - Componentes do YARN;https://youtu.be/qcP6kYbU4K4
+Aula 2.5 - Hadoop: estrutura da ferramenta;https://youtu.be/hBrAy6_VZOc
+Aula 2.6 - Funções map, reduce e combine;https://youtu.be/lU5JW1h1d70
+Aula 2.7 - Tolerância a falhas;https://youtu.be/6DFlXPLn32Q
+Aula 2.8 - Formatos de entrada e saída;https://youtu.be/r7VLrLOgnc8
+Aula 3.1 - Formatos, conceitos e comandos básicos do HDFS;https://youtu.be/lc6ekbRZuKc
+Aula 3.2 - Namenodes e Datanodes;https://youtu.be/3KWF_dXkJtg
+Aula 3.3 - Operações básicas do HDFS;https://youtu.be/opJgSOkAZWc
+Aula 3.4 - Interface gráfica para gerenciamento do HDFS;https://youtu.be/OqXsW7yIhcI
+Aula 3.5 - Instalando a Máquina Virtual;https://youtu.be/HFFoVTM3rQI
+Aula 3.6 - Executando os comandos básicos do Ecossistema Hadoop e do HDFS;https://youtu.be/g9nZurLz3oE
+Aula 4.1 - Estrutura de um programa Hadoop e a classe JobConf;https://youtu.be/wVfDWYNFIfY
+Aula 4.2 - A classe MapReduceBase;https://youtu.be/McnS1btRz3M
+Aula 4.3 - Criando, consultando e excluindo diretórios no HDFS (via aplicação);https://youtu.be/c5WpulEuSyA
+Aula 4.4 - Lendo e gravando dados no HDFS (via aplicação);https://youtu.be/yKZuVekt1PA
+Aula 4.5 - Um "Olá mundo" utilizando o Hadoop;https://youtu.be/ZntV2gxE8Jo
+Aula 4.6 - Criando, compilando e executando um programa Hadoop_MapReduce - Parte 01;https://youtu.be/IwsJ_UrXaZE
+Aula 4.7 - Criando, compilando e executando um programa Hadoop_MapReduce - Parte 02;https://youtu.be/2NrQTRDrxLw
+Aula 4.8 - Métodos configure e close;https://youtu.be/z4kGE8qnOr8
+Aula 4.9 - Definindo uma função Combine;https://youtu.be/sf2YapEixxU
+Aula 4.10 - Depurando um job e os logs do Hadoop;https://youtu.be/juYod9M2c2k
+Aula 4.11 - Algoritmos iterativos com Hadoop;https://youtu.be/A8koWo_HFoc
+Aula 5.1 - Principais parâmetros de desempenho;https://youtu.be/ABGjKjTqBQ8
+Aula 5.2 - Medidas de desempenho em cluster;https://youtu.be/WABM1dPsI-U
+Aula 6.1 - Apache Hive;https://youtu.be/r3_SAhpTQHE
+Aula 6.2 - Apache HBase;https://youtu.be/IX3t8lwBs90
+Aula 6.3 - Apache Sqoop;https://youtu.be/GSJJWEcOrmI
+Aula 6.4 - Importando dados para o HDFS com Sqoop;https://youtu.be/6fwLfVfrwLc
+Aula 6.5 - Manipulando dados com o Hive;https://youtu.be/vTU5Q_8jIlk
