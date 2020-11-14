@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ### Run!
 ```bash
-python main.py <número-do-módulo> <pasta-de-saída>
+python main.py <número-do-módulo> <caminho-absoluto-pasta-de-saída>
 ```
 
 For example:
