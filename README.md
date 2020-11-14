@@ -4,7 +4,8 @@ git clone https://github.com/GabrielMMelo/get-classes.git
 cd get-classes/
 ```
 
-### Install dependencies, via `pip`
+### Install dependencies, via `pip` 
+> tested on Python >= 3.7
 ```bash
 pip install -r requirements.txt
 ```
